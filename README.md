@@ -3,11 +3,11 @@
 
 First i have created a repo in azure devops where my angular and .net code will be pushed.Later i will publish my app using azure serices and will integrate CI/CD.
 
-| ![space-1.jpg](https://github.com/sadman6259/Azure-CICD-doc/assets/32922365/ba9a8254-2bbc-4586-80b9-f8a50d93a981) | 
+| ![space-1.jpg](https://github.com/sadman6259/Azure-CICD-doc/assets/32922365/54912911-369c-4d9a-aa1a-f19f4d53d8f6) | 
 |:--:| 
 | *Azure repo containg two branches, master one is using for backend code while other one is using for frontend* |
 
-| ![space-1.jpg](https://github.com/sadman6259/Azure-CICD-doc/assets/32922365/4e7b441a-a2c7-473a-a7f3-b1acdf3f2a82) | 
+| ![space-1.jpg](https://github.com/sadman6259/Azure-CICD-doc/assets/32922365/2595fda6-dd43-40c0-843d-85d0817a5c56) | 
 |:--:| 
 | *API branch in azure repo and will publish it using azure app service* |
 
